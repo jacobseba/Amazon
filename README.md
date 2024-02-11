@@ -8,7 +8,7 @@ Features
     Add to Cart: Users can add items to their shopping cart with a single click.
     Update Quantity: Users can update the quantity of each item in their cart.
     Remove Items: Users can remove items from their cart.
-    Dynamic Total Calculation: The total cost updates dynamically as items are added, removed, or updated in the cart.
+    Dynamic Total Calculation: The total cost updates dynamically as items are added or removed in the cart as well as the shipping option selected.
 
 Technologies Used
 
